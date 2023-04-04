@@ -6,5 +6,3 @@ volume=width*height*depth #입력 받은 값을 토대로 부피를 계산합니
 print("The desired volume is",volume) #계산한 부피 값을 출력합니다.
 
 print("Hello World!")
-
-print("Hey Hey") #Hey Hey
