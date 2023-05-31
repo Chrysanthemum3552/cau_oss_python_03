@@ -5,4 +5,7 @@
 Homework#2, simple calculator 구현
 
 ## 2023-05-17
-Homework#2, module and class 구현
+Homework#4, module and class 구현
+
+## 2023-06-01
+Homework#5, brach연습과 예외처리 연습
